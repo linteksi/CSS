@@ -296,6 +296,8 @@ ul.follow-list li:last-child a{border-right:none}
 #nav ul{display:none;height:auto}
 #nav a#pull{display:block;background-color:#0099FF;width:90%;position:relative;padding-left:25px}
 #nav a#pull:after{content:"";background:transparent url('https://cdn.rawgit.com/linteksi/nav-bar/cfc2209b/nav-icon.png') no-repeat;width:30px;height:30px;display:inline-block;position:absolute;left:20px;top:10px}
+.popular-posts ul{font-size: 1.1em}
+.recent_posts_with_thumbs{font-size: 1.1em}
 }
 
 /*--Mobile Responsive 467px--*/
