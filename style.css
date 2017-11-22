@@ -1,4 +1,4 @@
-/* CSS version 7.8 - fix Breadcrumbs font size */
+/* CSS version 7.9 - fix sidebar widget font size */
 
 /*--Body--*/
 body#layout ul{list-style-type:none;list-style:none}
@@ -103,7 +103,7 @@ div.rawz{text-align:center;overflow:hidden;background:#2B2B2B;position:relative;
 .dmca-badge-img {margin:0 0 0 5px;vertical-align:middle}
 
 /*--Popular Posts Widget--*/
-.popular-posts ul{padding-left:0px}
+.popular-posts ul{line-height:1.4em;padding-left:0px}
 .popular-posts ul li{background:none repeat scroll 0 0 rgba(0, 0, 0, 0);list-style-type:none;margin:0 0 5px 0px;padding:5px 5px 5px 10px !important;border-bottom:1px solid #ddd}
 .popular-posts ul li:hover{border-bottom:1px solid #0099ff}
 .popular-posts ul li a:hover{text-decoration:none}
@@ -111,7 +111,7 @@ div.rawz{text-align:center;overflow:hidden;background:#2B2B2B;position:relative;
 
 /*--Recent Posts Widget--*/
 img.recent_thumb {padding:1px;width:75px;height:75px;border:none;float:left;margin:5px 5px 0px 0px;}
-.recent_posts_with_thumbs {font-family:'Source Sans Pro', sans-serif; font-weight:none; float: left;width: 100%;min-height: 70px;margin: 2px 0px 2px 0px;padding: 0;font-size:16px;}
+.recent_posts_with_thumbs {font-family:'Source Sans Pro',sans-serif;font-weight:normal;float:left;line-height:1.3em;width:100%;min-height:70px;margin:2px 0px 2px 0px !important;padding: 0;font-size:16px;}
 ul.recent_posts_with_thumbs li {padding-bottom:2px;padding-top:2px;min-height:65px;}
 .recent_posts_with_thumbs a {text-decoration:none;}
 .recent_posts_with_thumbs strong {font-size:10px;}
