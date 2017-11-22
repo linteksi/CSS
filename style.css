@@ -126,7 +126,7 @@ ul.recent_posts_with_thumbs li {padding-bottom:2px;padding-top:2px;min-height:65
 /*--Advertisements--*/
 #top-body-ads{background:#fff;display:block;width:728px;height:90px;margin:0px;padding:0px;overflow:hidden;text-align:center}
 .adsense-ads{display:block;float:left;height:auto !important;width:50% !important}
-.related-post-wrapper{font-size:0.9em !important;font-weight:normal !important;display:block;float:none;height:auto !important;width:100% !important}
+.related-post-wrapper{font-size:14px !important;font-weight:normal !important;display:block;float:none;height:auto !important;width:100% !important}
 .inpost-ads{background-color:transparent;display:block;clear:both;float:none;height:auto !important;margin:0 0 15px 0;overflow:hidden;position:relative;text-align:center;padding:0;width:100% !important}
 .contributor-ads{height:auto;width:100%;margin:0}
 
