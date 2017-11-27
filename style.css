@@ -115,7 +115,7 @@ ul.recent_posts_with_thumbs li {padding-bottom:2px;padding-top:2px;min-height:65
 .recent_posts_with_thumbs strong {font-size:10px;}
 
 /*--Social Follow Button--*/
-#follow-us-wrapper{background-color:transparent;display:block;font-family:Arial;margin:0 auto;max-width:320px;overflow:hidden}
+#follow-us-wrapper{background-color:transparent;display:block;font-family:Arial;margin:0 auto;max-width:340px;overflow:hidden}
 #follow-us{color:#fff;display:inline-flex;display:-webkit-inline-box;display:-webkit-inline-flex;display:-moz-inline-box;display:-ms-inline-flexbox;font-size:.9em;height:auto;margin:0 0 5px 0;padding:7px;width:100%}
 #follow-us.follow-fb{background-color:#3b5998}
 #follow-us.follow-fb:hover{background-color:#3b7098}
@@ -219,7 +219,7 @@ a.showcontent:hover{background:#fff;color:#0099ff}
 .input:hover{background-color:0099ff;}
 
 /*--About Logo--*/
-#lts-logo {color:#eee; display:block; font-size:1.4em; font-family:inherit; margin:0 auto; max-width:380px; text-align:justify}
+#lts-logo {color:#eee; display:block; font-size:1.4em; font-family:inherit; margin:0 auto; max-width:340px; text-align:justify}
 .lts-img {height:auto; width:100%}
 .lts-description {display:block; float:left; line-height:1.3em}
 
