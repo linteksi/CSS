@@ -324,7 +324,7 @@ a.showcontent:hover{background:#fff;color:#0099ff}
 #nav{border-bottom:0}
 #nav ul{display:none;height:auto}
 #nav a#pull{display:block;background-color:#0099FF;width:90%;position:relative;padding-left:25px}
-#nav a#pull:after{content:"";background:transparent url('https://rawcdn.githack.com/linteksi/file-host/24deea2711bc0d522a59d63f3e0386349072af4c/nav-icon.png') no-repeat;width:30px;height:30px;display:inline-block;position:absolute;left:20px;top:10px}
+#nav a#pull:after{content:"";background:transparent url('https://rawcdn.githack.com/linteksi/file-host/f8e2872c0e7c5098b50e06be66c9cd789c79c573/nav-icon-new.png') no-repeat;width:30px;height:30px;display:inline-block;position:absolute;left:20px;top:10px}
 .popular-posts ul{font-size: 1.1em}
 .recent_posts_with_thumbs{font-size: 1.1em}
 }
